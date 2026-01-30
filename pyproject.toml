@@ -22,6 +22,7 @@ dependencies = [
     "python-rtmidi>=1.5.8",
     "seaborn>=0.13.2",
     "simpleaudio>=1.0.4",
+    "sounddevice>=0.5.5",
 ]
 
 [tool.uv.sources]
